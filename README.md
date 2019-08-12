@@ -25,3 +25,10 @@
 var b = 1
 console.log(b)
 ```
+
+插入图片
+1. 把图片拖进来
+2. ![一张图片](1.jpg)
+
+插入网址
+[我的个人网站](https://github.com/lindingqi)
